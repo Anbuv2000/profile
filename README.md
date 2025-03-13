@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="1698563795242-01.jpeg"  />
+  <img height="200" src="Anbu Murugan V (3).png"  />
 </div>
 
 ###
